@@ -2,6 +2,10 @@
 *
 
 # Allow these directories
+!Scripts/
+!Input_Files/
+
+# Allow all contents inside them
 !Scripts/**
 !Input_Files/**
 
