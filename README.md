@@ -1,4 +1,4 @@
-# Rras2_OV
+# Rras2-OV
 
 This repository contains the R scripts and input files used in the spatial transcriptomics analyses for the paper:
 

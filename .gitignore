@@ -2,8 +2,8 @@
 *
 
 # Allow these directories
-!Scripts/
-!Input_Files/
+!Scripts/**
+!Input_Files/**
 
 # Allow these important files
 !README.md
