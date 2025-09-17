@@ -7,6 +7,8 @@ This repository contains the R scripts and input files used in the spatial trans
 
 The purpose of this project was to study the effects of Rras2-Q72L mutations on mouse ovary phenotype using spatial transcriptomics data (10X Genomics, CytAssist). 
 
+The spaceranger outputs needed to make the Seurat objects can be accessed here: [public Zenodo link here]
+
 ## Repository Structure
 - `Scripts/`: R scripts for data processing, QC, and analysis.  
   - Numeric prefixes correspond to the recommended order of execution.  
@@ -71,3 +73,5 @@ The purpose of this project was to study the effects of Rras2-Q72L mutations on 
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+
