@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Allow these directories
+!Scripts/
+!Input_Files/
+
+# Allow these important files
+!README.md
+!.gitignore
+!LICENSE
